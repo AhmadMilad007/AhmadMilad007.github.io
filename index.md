@@ -14,11 +14,11 @@ As Nelson Mandela said:
  }
  ```
   ~~give up~~
- ```
+ 
   1. Set goal
      - Make plan
        - Get to work
- ```
+ 
  ```markdown
   - [x] Family
   - [x] Health
@@ -27,7 +27,7 @@ As Nelson Mandela said:
   - [x] Development
   - [ ] Travel 
  ```
- ```
+ 
   [Go back to my bio](#Ahmad-Milad)
  
 
