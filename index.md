@@ -8,8 +8,8 @@ Feel free to add me to your [LinkedIn](https://www.linkedin.com/in/ahmad-milad-b
 As Nelson Mandela said:
  >The greatest glory in living lies not in never falling, but in rising every time we fall
 
-```javascript
-while (noSuccess) {
+ ```javascript
+ while (noSuccess) {
       tryAgain();
-}
-```
+ }
+ ```
