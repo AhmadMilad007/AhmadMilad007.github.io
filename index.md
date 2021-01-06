@@ -6,10 +6,12 @@ I'm an undergraduate Computer Science Student at the University of California Sa
 Feel free to add me to your [LinkedIn](https://www.linkedin.com/in/ahmad-milad-b51939183/) network.
 
 As Nelson Mandela said:
- >The greatest glory in living lies not in never falling, but in rising every time we fall
+ >*The greatest glory in living lies not in never falling, but in rising every time we fall*
 
  ```javascript
  while (noSuccess) {
       tryAgain();
  }
  ```
+	```markdown 
+  ~~give up~~
