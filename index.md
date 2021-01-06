@@ -1,6 +1,6 @@
 ## Ahmad Milad
 
-I'm a undergraduate Computer Student at the University of California San Diego 
+I'm an undergraduate Computer Science Student at the University of California San Diego. My favorite programming language is C++ and I love sports. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
