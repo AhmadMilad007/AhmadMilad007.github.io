@@ -13,5 +13,4 @@ As Nelson Mandela said:
       tryAgain();
  }
  ```
-	```markdown 
   ~~give up~~
