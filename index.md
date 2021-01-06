@@ -25,7 +25,6 @@ As Nelson Mandela said:
   - [x] Development
   - [ ] Travel 
 ```
-```markdown
 
   [Go back to my bio](#Ahmad-Milad)
 
