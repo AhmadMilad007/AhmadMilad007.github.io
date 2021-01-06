@@ -14,9 +14,11 @@ As Nelson Mandela said:
  }
  ```
   ~~give up~~
+  ```
   1. Set goal
      - Make plan
        - Get to work
+  ```
   ```markdown
   - [x] Family
   - [x] Health
