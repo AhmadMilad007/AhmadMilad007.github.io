@@ -17,17 +17,17 @@ As Nelson Mandela said:
   1. Set goal
      - Make plan
        - Get to work
-```
+  ```
   - [x] Family
   - [x] Health
   - [x] Social
   - [x] Work
   - [x] Development
   - [ ] Travel 
-```
-```
+  ```
+ ```
   [Go back to my bio](#Ahmad-Milad)
-```
+ ```
 
 
  
