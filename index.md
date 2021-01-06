@@ -17,7 +17,7 @@ As Nelson Mandela said:
   1. Set goal
      - Make plan
        - Get to work
- ```markdown
+  ```markdown
   - [x] Family
   - [x] Health
   - [x] Social
@@ -25,7 +25,7 @@ As Nelson Mandela said:
   - [x] Development
   - [ ] Travel 
  ```
- 
+ ```
   [Go back to my bio](#Ahmad-Milad)
  
 
